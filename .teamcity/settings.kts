@@ -49,8 +49,7 @@ object GitHub : BuildType({
             publisher = github {
                 githubUrl = "https://api.github.com"
                 authType = personalToken {
-                    token = "zxx11e0e665cfb44d64f3ff076157556d86c7ba92b60cdc61b254468912eb637cd7c9d8c362c1f1238924362e60b79fb5b8a888a9cf260c810cc6cdf052bd3a5ac5f59bdd89138807a7f0f10f9095b30b6db200baba8fa08336"
-                }
+                    token = "zxxda85e86acdb3dd9215e821165f14ae716d05048816296f72abfcc4c252ae88c9386da53efbd51e7a775d03cbe80d301b"
             }
         }
     }
