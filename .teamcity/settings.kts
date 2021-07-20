@@ -49,7 +49,7 @@ object GitHub : BuildType({
             publisher = github {
                 githubUrl = "https://api.github.com"
                 authType = personalToken {
-                    token = "zxx70612cf7d0faead55254cb740f4374977cfb90553eab154064c1df14a1aa783eafbb95d2a1c13585775d03cbe80d301b"
+                    token = "70612cf7d0faead55254cb740f4374977cfb90553eab154064c1df14a1aa783eafbb95d2a1c13585775d03cbe80d301b"
                 }
             }
             param("github_oauth_user", "iyanke")
