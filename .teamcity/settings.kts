@@ -46,6 +46,7 @@ object GitHub : BuildType({
 
     features {
         commitStatusPublisher {
+            enabled = false
             vcsRootExtId = "PullRequestsPlugin_HttpsGithubComIyankeTests"
             publisher = github {
                 githubUrl = "https://api.github.com"
